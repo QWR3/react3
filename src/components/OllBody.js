@@ -23,5 +23,4 @@ class OllBody extends Component {
         );
     }
 }
-
 export default OllBody;

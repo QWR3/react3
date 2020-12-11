@@ -4,3 +4,4 @@ export default class Oll{
         return await fetch(this.url).then(value => value.json())
     }
 }
+
