@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fff0f375-893f-4a86-a89c-874b914f4503" name="Default Changelist" comment="3" />
+    <list default="true" id="fff0f375-893f-4a86-a89c-874b914f4503" name="Default Changelist" comment="3">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,7 @@
       <workItem from="1607607674824" duration="9013000" />
       <workItem from="1607627531190" duration="1772000" />
       <workItem from="1607629838358" duration="1781000" />
-      <workItem from="1607676735095" duration="10187000" />
+      <workItem from="1607676735095" duration="10492000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1607699777714</created>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607699777714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3">
+      <created>1607700902735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607700902735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
